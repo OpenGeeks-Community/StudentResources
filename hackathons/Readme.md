@@ -53,17 +53,7 @@ This document contains a curated list of popular platforms where students, devel
 
 ---
 
-## 📅 6. [Eventbrite](https://www.eventbrite.com/)
-- **Type**: Mostly In-Person (Some Online)
-- **About**: A general event-hosting platform where organizers list tech meetups, startup expos, and local hackathons. Great for regional participation.
-- **Features**:
-  - Location-based search
-  - Ticketing system (some events free)
-  - Often tied to physical venues or universities
-
----
-
-## 🤝 7. [Meetup](https://www.meetup.com/)
+## 🤝 6. [Meetup](https://www.meetup.com/)
 - **Type**: In-Person & Online
 - **About**: Meetup is a social platform for finding and joining local developer groups, hack nights, and tech clubs. It’s less formal but great for grassroots-level hacks.
 - **Features**:
@@ -73,7 +63,7 @@ This document contains a curated list of popular platforms where students, devel
 
 ---
 
-## 🌍 8. [AngelHack](https://angelhack.com/)
+## 🌍 7. [AngelHack](https://angelhack.com/)
 - **Type**: In-Person (Global)
 - **About**: AngelHack organizes startup-focused hackathons across 100+ cities. Participants often pitch to real investors and enter post-hackathon accelerators.
 - **Features**:
@@ -83,7 +73,7 @@ This document contains a curated list of popular platforms where students, devel
 
 ---
 
-## 🧠 9. [HackClub](https://hackclub.com/)
+## 🧠 8. [HackClub](https://hackclub.com/)
 - **Type**: Online & High School Chapters
 - **About**: HackClub empowers high-school students to run their own hackathons, clubs, and coding events. It’s a global, student-first community.
 - **Features**:
@@ -93,7 +83,7 @@ This document contains a curated list of popular platforms where students, devel
 
 ---
 
-## 🚀 10. [GitHub Global Campus](https://education.github.com/)
+## 🚀 9. [GitHub Global Campus](https://education.github.com/)
 - **Type**: Online & Campus Events
 - **About**: GitHub offers a centralized hub for students through its Global Campus program. You’ll find internal student hackathons, GitHub Campus Expert events, and access to the GitHub Student Developer Pack.
 - **Features**:
@@ -117,7 +107,6 @@ Want to contribute more platforms? Submit a Pull Request. 🚀
 | [HackerEarth](https://www.hackerearth.com/challenges/) | ✅ Verified | Online coding challenges and hackathons - accurate description |
 | [Major League Hacking (MLH)](https://mlh.io/) | ✅ Verified | University hackathon league - supports 200+ events annually |
 | [AllHackathons](https://us.allhackathons.com/) | ✅ Verified | Directory-style listing - browsing without signup confirmed |
-| [Eventbrite](https://www.eventbrite.com/) | ✅ Verified | General events platform - hosts both online and in-person hackathons |
 | [Meetup](https://www.meetup.com/) | ✅ Verified | Grassroots tech meetups and mini-hackathons |
 | [AngelHack](https://angelhack.com/) | ✅ Verified | Startup-focused hackathons with investor connections |
 | [HackClub](https://hackclub.com/) | ✅ Verified | High school student hackathon community |
