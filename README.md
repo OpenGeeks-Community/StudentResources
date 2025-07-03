@@ -43,8 +43,6 @@ public static CompiledSchema compile(String schema)
 ### `compile(String schema, String defaultDialect)`
 
 **Compiles a JSON schema string, allowing you to specify a default dialect if the schema does not declare one**.
-
-@return A compiled schema
 */
 ```java
 public static CompiledSchema compile(String schema, String defaultDialect)
