@@ -60,7 +60,7 @@ BlazeWrapper bridges Java and native C++ for **fast, standards-compliant JSON Sc
 
 
 ---
-
+<a name="supported-resolvers"></a>
 ## Supported `$ref` Resolvers:
 
 | Resolver Type | Status        | Description                                   |
