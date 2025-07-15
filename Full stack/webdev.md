@@ -61,7 +61,6 @@ Web Development is not just about coding but building interactive, user-friendly
 
 - [JavaScript.info](https://javascript.info/)
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [freeCodeCamp JavaScript Course](https://www.freecodecamp.org/learn/)
 - [30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 - [Exploring ES6](https://exploringjs.com/es6/)
 - [Codewars](https://www.codewars.com/) | [LeetCode](https://leetcode.com/) (for practice)
@@ -87,7 +86,6 @@ Web Development is not just about coding but building interactive, user-friendly
 ### Version Control (Git and GitHub)
 
 - [Git Documentation](https://git-scm.com/doc)
-- [GitHub Learning Lab](https://lab.github.com/)
 - **Concepts:** Clone, Fork, Commit, Branch, Merge, Pull Request
 - **Tools:** VS Code Git, GitHub Desktop, GitKraken
 
