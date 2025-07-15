@@ -1,10 +1,10 @@
-# 🌐 Web Development Resources for Students
+# Web Development Resources for Students
 
 Welcome to the comprehensive Web Development section tailored for students! This guide is enriched with additional content, practical tips, essential tools, and key concepts to make your learning journey seamless and effective.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Introduction](#introduction)
 - [Frontend Development](#frontend-development)
@@ -13,24 +13,24 @@ Welcome to the comprehensive Web Development section tailored for students! This
   - [JavaScript](#javascript)
   - [Frontend Frameworks](#frontend-frameworks)
   - [UI/UX Design Basics](#uiux-design-basics)
-  - [Version Control (Git & GitHub)](#version-control-git--github)
+  - [Version Control (Git and GitHub)](#version-control-git-and-github)
 - [Backend Development](#backend-development)
   - [Node.js](#nodejs)
   - [Databases](#databases)
   - [API Development](#api-development)
-  - [Authentication & Security](#authentication--security)
+  - [Authentication and Security](#authentication-and-security)
 - [Full Stack Roadmaps](#full-stack-roadmaps)
 - [Project Ideas](#project-ideas)
 - [Free Hosting Platforms](#free-hosting-platforms)
 - [Recommended YouTube Channels](#recommended-youtube-channels)
 - [Extra Learning Resources](#extra-learning-resources)
-- [Helpful Tools & Extensions](#helpful-tools--extensions)
+- [Helpful Tools and Extensions](#helpful-tools-and-extensions)
 - [Glossary of Key Terms](#glossary-of-key-terms)
 - [Contributing](#contributing)
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 Web Development is not just about coding but building interactive, user-friendly websites and web applications. It involves:
 
@@ -40,16 +40,16 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 🎨 Frontend Development
+## Frontend Development
 
-### 🧱 HTML
+### HTML
 
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [freeCodeCamp HTML Course](https://www.freecodecamp.org/learn/)
 - [HTML Cheat Sheet - Stanford](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 
-### 🎨 CSS
+### CSS
 
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -58,7 +58,7 @@ Web Development is not just about coding but building interactive, user-friendly
 - [Animate.css](https://animate.style/)
 - [Can I Use - CSS Feature Support](https://caniuse.com/)
 
-### ⚙️ JavaScript
+### JavaScript
 
 - [JavaScript.info](https://javascript.info/)
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -67,7 +67,7 @@ Web Development is not just about coding but building interactive, user-friendly
 - [Exploring ES6](https://exploringjs.com/es6/)
 - [Codewars](https://www.codewars.com/) | [LeetCode](https://leetcode.com/) (for practice)
 
-### 🚀 Frontend Frameworks
+### Frontend Frameworks
 
 - [React Docs](https://reactjs.org/docs/getting-started.html)
 - [Vue.js Guide](https://vuejs.org/guide/introduction.html)
@@ -77,7 +77,7 @@ Web Development is not just about coding but building interactive, user-friendly
 
 **State Management Tools:** Redux, Zustand, Vuex
 
-### ✨ UI/UX Design Basics
+### UI/UX Design Basics
 
 - [Interaction Design Foundation](https://www.interaction-design.org/)
 - [Google UX Design Certificate](https://grow.google/certificates/ux-design/)
@@ -85,7 +85,7 @@ Web Development is not just about coding but building interactive, user-friendly
 
 **Principles:** Consistency, Accessibility, Responsive Design, Typography, Color Contrast
 
-### 🗃️ Version Control (Git & GitHub)
+### Version Control (Git and GitHub)
 
 - [Git Documentation](https://git-scm.com/doc)
 - [GitHub Learning Lab](https://lab.github.com/)
@@ -94,15 +94,15 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 🔧 Backend Development
+## Backend Development
 
-### 🟩 Node.js
+### Node.js
 
 - [Node.js Docs](https://nodejs.org/en/docs)
 - [The Odin Project - Node.js](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
 - **Frameworks:** Express.js, Koa, NestJS
 
-### 🗄️ Databases
+### Databases
 
 - [MongoDB University](https://university.mongodb.com/)
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
@@ -110,23 +110,23 @@ Web Development is not just about coding but building interactive, user-friendly
 - [Firebase Docs](https://firebase.google.com/docs)
 - [Redis Docs](https://redis.io/docs/)
 
-### 🔗 API Development
+### API Development
 
 - [REST API Tutorial](https://restfulapi.net/)
 - [Express.js Docs](https://expressjs.com/)
 - [Postman Learning Center](https://learning.postman.com/)
 - [GraphQL Intro](https://graphql.org/learn/)
 
-### 🔐 Authentication & Security
+### Authentication and Security
 
 - **Auth Methods:** Sessions, JWT, OAuth2
 - [OWASP Security Guide](https://owasp.org/www-project-web-security-testing-guide/)
 - **Libraries:** bcrypt.js, Helmet.js, Passport.js
-- Concepts: CORS, Rate Limiting, HTTPS, CSRF, SQL Injection
+- **Concepts:** CORS, Rate Limiting, HTTPS, CSRF, SQL Injection
 
 ---
 
-## 🧠 Full Stack Roadmaps
+## Full Stack Roadmaps
 
 - [roadmap.sh - Full Stack Roadmap](https://roadmap.sh/full-stack)
 - [The Odin Project](https://www.theodinproject.com/)
@@ -136,7 +136,7 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 💡 Project Ideas
+## Project Ideas
 
 - ✅ Portfolio Website with Dark/Light Mode
 - ✅ Blog Platform with Markdown
@@ -148,14 +148,14 @@ Web Development is not just about coding but building interactive, user-friendly
 
 **Bonus Ideas:**
 
-- Social Feed Dashboard
-- Recipe App using Spoonacular API
-- Expense Tracker with Charts.js
+- Social Feed Dashboard  
+- Recipe App using Spoonacular API  
+- Expense Tracker with Charts.js  
 - Real-time Notes App (using Firebase)
 
 ---
 
-## 🌍 Free Hosting Platforms
+## Free Hosting Platforms
 
 - [GitHub Pages](https://pages.github.com/)
 - [Netlify](https://www.netlify.com/)
@@ -168,7 +168,7 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 🎥 Recommended YouTube Channels
+## Recommended YouTube Channels
 
 - [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)
 - [Traversy Media](https://www.youtube.com/c/TraversyMedia)
@@ -180,7 +180,7 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 📚 Extra Learning Resources
+## Extra Learning Resources
 
 - [Frontend Mentor](https://www.frontendmentor.io/)
 - [CS50 Web Track (Harvard)](https://cs50.harvard.edu/web/)
@@ -191,17 +191,17 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 🛠️ Helpful Tools & Extensions
+## Helpful Tools and Extensions
 
-- **VS Code Extensions:** Prettier, ESLint, Live Server, GitLens
-- **Design Tools:** Figma, Canva, Adobe XD
-- **Browser DevTools:** Chrome, Firefox Dev Edition
-- **Productivity & Deployment:** Postman, Insomnia, GitKraken, Docker
+- **VS Code Extensions:** Prettier, ESLint, Live Server, GitLens  
+- **Design Tools:** Figma, Canva, Adobe XD  
+- **Browser DevTools:** Chrome, Firefox Dev Edition  
+- **Productivity & Deployment:** Postman, Insomnia, GitKraken, Docker  
 - **Package Managers & Tools:** npm, yarn, webpack, Vite
 
 ---
 
-## 🗂️ Glossary of Key Terms
+## Glossary of Key Terms
 
 | Term   | Meaning |
 |--------|---------|
@@ -217,12 +217,13 @@ Web Development is not just about coding but building interactive, user-friendly
 
 ---
 
-## 🛠️ Contributing
+## Contributing
 
 🎉 Contributions are welcome!
-- Add new project ideas
-- Submit updated or broken links
-- Expand section content or examples
+
+- Add new project ideas  
+- Submit updated or broken links  
+- Expand section content or examples  
 - Suggest new tools/libraries
 
 Check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
