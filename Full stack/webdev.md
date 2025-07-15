@@ -45,7 +45,6 @@ Web Development is not just about coding but building interactive, user-friendly
 ### HTML
 
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [freeCodeCamp HTML Course](https://www.freecodecamp.org/learn/)
 - [HTML Cheat Sheet - Stanford](https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf)
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)
 
@@ -56,7 +55,7 @@ Web Development is not just about coding but building interactive, user-friendly
 - [CSS Grid Guide](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs/installation)
 - [Animate.css](https://animate.style/)
-- [Can I Use - CSS Feature Support](https://caniuse.com/)
+
 
 ### JavaScript
 
