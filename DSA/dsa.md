@@ -32,10 +32,10 @@ Unlock your coding interviews, software careers, and computer science fundamenta
 
 ## Roadmaps & DSA Learning Path
 
-- [Roadmap.sh – DSA Roadmap (Beginner to Advanced)](https://roadmap.sh/datastructures-and-algorithms)[10]
-- [GeeksforGeeks DSA Complete Roadmap](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)[12]
-- [Datacamp – 12-Month Guide to Mastering DSA](https://www.datacamp.com/blog/dsa-roadmap)[13]
-- [CodeChef DSA Roadmap](https://www.codechef.com/roadmap/data-structures-and-algorithms)[19]
+- [Roadmap.sh – DSA Roadmap (Beginner to Advanced)](https://roadmap.sh/datastructures-and-algorithms)
+- [GeeksforGeeks DSA Complete Roadmap](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)
+- [Datacamp – 12-Month Guide to Mastering DSA](https://www.datacamp.com/blog/dsa-roadmap)
+- [CodeChef DSA Roadmap](https://www.codechef.com/roadmap/data-structures-and-algorithms)
 
 **Recommended Sequence:**
 1. Programming Language Foundations (Python, C++, Java, JS)
@@ -50,11 +50,11 @@ Unlock your coding interviews, software careers, and computer science fundamenta
 
 ## Free Courses & Certification
 
-- [freeCodeCamp DSA Course](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/)[20]
-- [GeeksforGeeks – Complete DSA Self-Paced (free sections)](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)[12]
-- [Udemy – Top Free DSA Courses & Tutorials](https://www.udemy.com/topic/data-structures/free/)[14]
-- [ScholarHat – Free DSA Online Certification (21 Days)](https://www.scholarhat.com/free-course/data-structures-algorithms-course)[17]
-- [Class Central – Algorithms and DSA (Free University MOOC)](https://www.classcentral.com/subject/algorithms-and-data-structures)[23]
+- [freeCodeCamp DSA Course](https://www.freecodecamp.org/news/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a/)
+- [GeeksforGeeks – Complete DSA Self-Paced (free sections)](https://www.geeksforgeeks.org/dsa/complete-roadmap-to-learn-dsa-from-scratch/)
+- [Udemy – Top Free DSA Courses & Tutorials](https://www.udemy.com/topic/data-structures/free/)
+- [ScholarHat – Free DSA Online Certification (21 Days)](https://www.scholarhat.com/free-course/data-structures-algorithms-course)
+- [Class Central – Algorithms and DSA (Free University MOOC)](https://www.classcentral.com/subject/algorithms-and-data-structures)
 
 ---
 
@@ -65,7 +65,7 @@ Unlock your coding interviews, software careers, and computer science fundamenta
 - [HackerRank DSA Track](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 - [CodeChef DSA Practice](https://www.codechef.com/)
 - [GeeksforGeeks Practice](https://practice.geeksforgeeks.org/)
-- [Project-based DSA learning on GitHub](https://github.com/GDSC-KIIT/DSA-Resources)[16]
+- [Project-based DSA learning on GitHub](https://github.com/GDSC-KIIT/DSA-Resources)
 
 ---
 
@@ -109,7 +109,7 @@ Unlock your coding interviews, software careers, and computer science fundamenta
 | Neso Academy            | DSA/algorithms for competitive programming, English[21]|
 | Jenny’s Lectures CS/IT  | Hindi, university-aligned, all topics[21]             |
 
-See more: [Top 10 DSA YouTube Channels](https://www.linkedin.com/pulse/top-10-youtube-channels-master-data-structures-algorithms-i3dzc)[18], [Best DSA Channels 2025](https://www.placementpreparation.io/blog/best-youtube-channels-to-learn-data-structures-and-algorithms/)[21]
+See more: [Top 10 DSA YouTube Channels](https://www.linkedin.com/pulse/top-10-youtube-channels-master-data-structures-algorithms-i3dzc)[18], [Best DSA Channels 2025](https://www.placementpreparation.io/blog/best-youtube-channels-to-learn-data-structures-and-algorithms/)
 
 ---
 
@@ -149,10 +149,10 @@ See more: [Top 10 DSA YouTube Channels](https://www.linkedin.com/pulse/top-10-yo
 
 ## Curated GitHub Repositories
 
-- [GDSC-KIIT/DSA-Resources](https://github.com/GDSC-KIIT/DSA-Resources)[16]
+- [GDSC-KIIT/DSA-Resources](https://github.com/GDSC-KIIT/DSA-Resources)
 - [NeetCode DSA Patterns](https://github.com/neetcode-gh/leetcode)
 - [Back To Back SWE](https://github.com/backtobackswe)
-- [Project-Based DSA Learning](https://github.com/techiescamp/devops-projects)[16]
+- [Project-Based DSA Learning](https://github.com/techiescamp/devops-projects)
 - [GeeksforGeeks DSA Sheets](https://github.com/GeeksforGeeks/DSA-Sheet)
 
 ---
@@ -186,3 +186,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ---
 
+Made with ❤️ by the OpenGreek Community Team
