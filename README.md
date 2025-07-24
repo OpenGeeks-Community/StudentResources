@@ -1,1 +1,1 @@
-# StudentResources
+# OpenGeeks Community StudentResources
