@@ -88,7 +88,7 @@ A curated list of platforms to find, join, and participate in hackathons.
 
 Each entry contains a brief summary, benefits, and signup link.
 
-➡️ Check out: [`hackathon/hackathon.md`](./hackathon/hackathon.md)
+➡️ Check out: [`hackathon/hackathon.md`](./hackathon/hacks.md)
 
 ---
 
@@ -101,7 +101,6 @@ To contribute:
 2. Make your changes or add new resources
 3. Submit a Pull Request (PR)
 
-✅ Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines before contributing.
 
 ---
 
